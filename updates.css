@@ -1,0 +1,16 @@
+#updates-section {
+    margin: 0 auto;
+    color: rgb(99, 166, 197);
+    align-items: center;
+  }
+  #updates-container{
+    margin: auto;
+    background-color: darkslategray;
+    align-items: center;
+  }
+
+  .a{
+    margin: auto;
+    padding: 20;
+  }
+  
