@@ -1,0 +1,16 @@
+#updates-section {
+    margin: 0 auto;
+    color: rgba(100, 148, 237, 0.548);
+    align-items: center;
+  }
+  #updates-container{
+    margin: auto;
+color: slategray;
+    align-items: center;
+  }
+
+  .a{
+    margin: auto;
+    padding: 20;
+  }
+  
